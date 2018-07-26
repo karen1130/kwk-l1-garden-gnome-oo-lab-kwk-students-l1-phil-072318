@@ -6,6 +6,7 @@ class GardenGnome
     @name 
     @age 
     @allergies
+    @personality
     
   end 
-  
+end
