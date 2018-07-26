@@ -2,7 +2,7 @@
 
 class GardenGnome
   
-  def initialize()
+  def initialize(name, age, allergies)
     @name 
     @age 
     @allergies
