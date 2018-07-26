@@ -3,3 +3,7 @@
 class GardenGnome
   
   def initialize()
+    @name 
+    @age 
+  end 
+  
